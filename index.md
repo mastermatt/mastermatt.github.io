@@ -11,5 +11,5 @@ So here are some other pages that might be more entertaining to you.
 - No Twittering
 - I work at [Warby Parker](https://www.warbyparker.com/)
 - You can reach me at [{{ site.email }}](mailto:{{ site.email }})
-- Some old [VSFX](https://vimeo.com/12357242) stuff from my days at [SCAD](http://www.scad.edu/academics/programs/visual-effects) 
-
+- Some old [VSFX](https://vimeo.com/12357242) stuff from my days at [SCAD](http://www.scad.edu/academics/programs/visual-effects)
+ 
