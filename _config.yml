@@ -1,0 +1,8 @@
+# Site settings
+title: Matt R. Wilson
+email: matt@mattw.co
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mattw.co" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
