@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/mmattrw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mattw.co
+  * I am mmattrw (https://keybase.io/mmattrw) on keybase.
+  * I have a public key ASDlgdvP--WRDSm8I_ijiM2sNJM9U-Vv7NrbLKhuVE-70Ao
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120e581dbcffbe5910d29bc23f8a388cdac34933d53e56fecdadb2ca86e544fbbd00a",
+            "host": "keybase.io",
+            "kid": "0120e581dbcffbe5910d29bc23f8a388cdac34933d53e56fecdadb2ca86e544fbbd00a",
+            "uid": "7670d535890a3b51c77888d34ab60e19",
+            "username": "mmattrw"
+        },
+        "merkle_root": {
+            "ctime": 1499115734,
+            "hash": "3581ef4f36d25d8a48716d51d2962ecd73c5c3ad25784ac7f016e8052d09f1f3359cfc605e320ef42c2bae287e63fe437356eaa24b716c0ecd0835be415f010e",
+            "hash_meta": "4d47ad45ea9732c9e6bb024717ab60e45805f9566c18f7bf853d1de8b5ee8c31",
+            "seqno": 1208154
+        },
+        "service": {
+            "hostname": "mattw.co",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1499115747,
+    "expire_in": 504576000,
+    "prev": "d82f146dddd659d5fd584646889c4c787424cc960aee7fc8e059948c710b2151",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5YHbz/vlkQ0pvCP4o4jNrDSTPVPlb+za2yyoblRPu9AKp3BheWxvYWTFAz57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTU4MWRiY2ZmYmU1OTEwZDI5YmMyM2Y4YTM4OGNkYWMzNDkzM2Q1M2U1NmZlY2RhZGIyY2E4NmU1NDRmYmJkMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTU4MWRiY2ZmYmU1OTEwZDI5YmMyM2Y4YTM4OGNkYWMzNDkzM2Q1M2U1NmZlY2RhZGIyY2E4NmU1NDRmYmJkMDBhIiwidWlkIjoiNzY3MGQ1MzU4OTBhM2I1MWM3Nzg4OGQzNGFiNjBlMTkiLCJ1c2VybmFtZSI6Im1tYXR0cncifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTkxMTU3MzQsImhhc2giOiIzNTgxZWY0ZjM2ZDI1ZDhhNDg3MTZkNTFkMjk2MmVjZDczYzVjM2FkMjU3ODRhYzdmMDE2ZTgwNTJkMDlmMWYzMzU5Y2ZjNjA1ZTMyMGVmNDJjMmJhZTI4N2U2M2ZlNDM3MzU2ZWFhMjRiNzE2YzBlY2QwODM1YmU0MTVmMDEwZSIsImhhc2hfbWV0YSI6IjRkNDdhZDQ1ZWE5NzMyYzllNmJiMDI0NzE3YWI2MGU0NTgwNWY5NTY2YzE4ZjdiZjg1M2QxZGU4YjVlZThjMzEiLCJzZXFubyI6MTIwODE1NH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJtYXR0dy5jbyIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjQifSwiY3RpbWUiOjE0OTkxMTU3NDcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZDgyZjE0NmRkZGQ2NTlkNWZkNTg0NjQ2ODg5YzRjNzg3NDI0Y2M5NjBhZWU3ZmM4ZTA1OTk0OGM3MTBiMjE1MSIsInNlcW5vIjo0LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQK8aBLkJv/ssV5IgkpoLTHUWOZ031WXAulAqaL3MlBuDktb+rExOxKIES89xeAgmoJInNPVsKuryxXBGvjuwjAyoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCB9PMx/9UWGnJqLX+yABuVAeugDZBYrzFH3j2+B+lMnLqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mmattrw
+
+==================================================================
