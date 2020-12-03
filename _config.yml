@@ -6,3 +6,6 @@ url: "http://mattw.co" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+# Google Analytics
+google_analytics: UA-17054856-1
